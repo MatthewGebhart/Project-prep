@@ -1,0 +1,28 @@
+## Idea 1 - Flash Cards app to help learn terms and concepts
+
+
+## Idea 2 - Appointment/calendering/journaling app (backup idea)
+
+
+
+## **Winner - Flash Cards app**
+
+- Name of Project - "Flash Card app (name TBD)"
+
+Summary of idea.
+- A customizable Flash Card App. Will include knowledge of technical terminology and concepts from CODE 201 and will also allow users to easily add in their own data sets.
+
+What problem or pain point does it solve? a. Keep it high level without going into too much detail.
+- Memorizing information is difficullt. 
+We want to create an acessable way to memorize information in a convienant and fun format. Progress is easy to track and information can be easily modified. 
+
+Minimum Viable Product (MVP) definition.
+- randomly generate cards 
+- easily modify the cards
+- contain multiple subjects 
+- contain default cards from CODE 201 concepts 
+- track correct answers
+- answers fields are multiple choice
+
+What is the minimum required for you to present on your demo day?
+- The MVP features in a web app that works on Chrome
